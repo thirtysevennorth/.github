@@ -1,4 +1,5 @@
 # .github
+
 # ABOUT
 37 North is an artist run video and media organization led by media artist, [Ian Winters](https://ianwinters.com). 
 
@@ -8,3 +9,4 @@ We provide ongoing support for the Winters' [Domestic Light](https://domesticlig
 
 Learn more at https://37-north.net
 
+<meta name="google-site-verification" content="7kyIcEEwx62eVpwZCuASEyaNT0ly2aim1jbbiM_iG8I" />
