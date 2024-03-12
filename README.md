@@ -1,4 +1,5 @@
 # .github
+<meta name="google-site-verification" content="7kyIcEEwx62eVpwZCuASEyaNT0ly2aim1jbbiM_iG8I" />
 
 # ABOUT
 37 North is an artist run video and media organization led by media artist, [Ian Winters](https://ianwinters.com). 
@@ -8,5 +9,3 @@ We provide production and design support for site specific, stage and gallery ba
 We provide ongoing support for the Winters' [Domestic Light](https://domesticlight.art) sensor project, and for the [OSC PIBOT]() framework created for the [Dream Club Lab](https://www.dreamclublab.art/).
 
 Learn more at https://37-north.net
-
-<meta name="google-site-verification" content="7kyIcEEwx62eVpwZCuASEyaNT0ly2aim1jbbiM_iG8I" />
